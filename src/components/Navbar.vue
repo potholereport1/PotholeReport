@@ -1,12 +1,12 @@
 <template>
     <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
         <div class="container" id="nav-container">
-            <router-link to="/dashboard" class="navbar-brand" id="logo">Pothole Report</router-link>
+            <router-link to="" class="navbar-brand" id="logo">Pothole Report</router-link>
             <div v-if="user.loggedIn" id="nav-authed">
                 <ul>
                     <router-link to="profile"><li class="nav-item">{{user.data.username}}</li></router-link>
                     <li class="nav-item">
-                        <a class="nav-link" @click.prevent="signOut">Sign out</a>
+                        <a class="nav-link" @click.prevent="signOut">Sign Out</a>
                     </li>
                 </ul>
             </div>
