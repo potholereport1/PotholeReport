@@ -1,2 +1,2 @@
 # PotholeReport
-This is a repository for the PotholeReport application government interface.
+This is a pothole report project with vuejs and firebase
