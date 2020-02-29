@@ -10,13 +10,13 @@
                     <sorted-table class="table table-striped table-bordered" :values="potholes" style="width: 90%; margin: auto;">
                         <thead>
                             <tr>
-                                <th scope="col"><sort-link name="no">No</sort-link></th>
+                                <th scope="col"><sort-link name="no">No.</sort-link></th>
                                 <th scope="col"><sort-link name="lat">Pothole Latitude</sort-link></th>
                                 <th scope="col"><sort-link name="lng">Pothole Longitude</sort-link></th>
                                 <th scope="col"><sort-link name="count">Number of Reports</sort-link></th>
-                                <th scope="col"><sort-link name="size">Size(1-10)</sort-link></th>
+                                <th scope="col"><sort-link name="size">Size (0-2m)</sort-link></th>
                                 <th scope="col"><sort-link name="date">Days Since Earliest Report</sort-link></th>
-                                <th>remove</th>
+                                <th>Remove</th>
                             </tr>
                         </thead>
                         <template #body="sort">
