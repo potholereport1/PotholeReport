@@ -204,11 +204,11 @@
     }
 
     .pothole-item li span {
-        color: #f0ad4e;
+        color: #ba4ef0;
     }
 
     .report-header {
-        background-color: #af70175c;
+        background-color: #55057a;
         padding: 5px;
         display: block;
         cursor: pointer;
@@ -217,7 +217,7 @@
     .user-list {
         padding: 40px 20px 10px 20px;
         text-align: center;
-        background-color: #f0ad4e7a;
+        background-color: #ba4ef0;
         border: 2px solid #0000000d;
         height: 300px;
         overflow-y: auto;
@@ -231,7 +231,7 @@
     }
 
     .user-list ul.user-report li.user-report {
-        background-color: #af7017;
+        background-color: #55057a;
         margin-bottom: 20px;
     }
 
