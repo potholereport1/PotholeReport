@@ -199,7 +199,7 @@
     }
 
     th:hover {
-        color: #f0ad4e;
+        color: #ba4ef0;
     }
 
     th a {
@@ -208,17 +208,17 @@
     }
 
     th a:hover {
-        color: #f0ad4e;
+        color: #ba4ef0;
         text-decoration: none;
     }
 
     th a:focus {
-        color: #f0ad4e;
+        color: #ba4ef0;
         text-decoration: none;
     }
 
     th a:active {
-        color: #f0ad4e;
+        color: #ba4ef0;
         text-decoration: none;
     }
 
@@ -239,15 +239,15 @@
     }
 
     button.page-link {
-        color: #f0ad4e;
+        color: #ba4ef0;
     }
 
     button.page-link:hover {
-        color: #f0ad4e;
+        color: #ba4ef0;
     }
 
     button.page-link:active {
-        color: #f0ad4e;
+        color: #ba4ef0;
     }
 
     .pagination {
@@ -278,15 +278,15 @@
     }
 
     .card-pagination option:hover {
-        background-color: #f0ad4e;
+        background-color: #ba4ef0;
     }
 
     .card-pagination option:focus {
-        background-color: #f0ad4e;
+        background-color: #ba4ef0;
     }
 
     .card-pagination option:visited {
-        background-color: #f0ad4e;
+        background-color: #ba4ef0;
     }
 
     svg {
