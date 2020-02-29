@@ -216,7 +216,7 @@
     }
 
     /*#txt-createNewUser:hover {*/
-    /*    color: #f0ad4e;*/
+    /*    color: #ba4ef0;*/
     /*}*/
 
 </style>
