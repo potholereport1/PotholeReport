@@ -34,7 +34,7 @@ Vue.use(VueGoogleMaps, {
 })
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAfwB5-x1b_atuygQP2Flx5Y1rhKBBv1DE",
+  apiKey: "AIzaSyC2PAig1DBjKqDOnAMbwhjtUzmRuydxE6s",
   authDomain: "potholereport-1b658.firebaseapp.com",
   databaseURL: "https://potholereport-1b658.firebaseio.com",
   projectId: "potholereport-1b658",
