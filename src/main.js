@@ -28,13 +28,13 @@ Vue.use(SortedTablePlugin)
 Vue.use(VueCollapse)
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyCrG0wA-kj93uDxQXtNsfBD3IK5GhylerQ',
+    key: 'AIzaSyC2PAig1DBjKqDOnAMbwhjtUzmRuydxE6s',
     libraries: 'places'
   }
 })
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCrG0wA-kj93uDxQXtNsfBD3IK5GhylerQ",
+  apiKey: "AIzaSyC2PAig1DBjKqDOnAMbwhjtUzmRuydxE6s",
   authDomain: "potholereport-1b658.firebaseapp.com",
   databaseURL: "https://potholereport-1b658.firebaseio.com",
   projectId: "potholereport-1b658",
