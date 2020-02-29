@@ -28,7 +28,7 @@ Vue.use(SortedTablePlugin)
 Vue.use(VueCollapse)
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyAfwB5-x1b_atuygQP2Flx5Y1rhKBBv1DE',
+    key: 'AIzaSyDaLg1Bwi-R0FqhKxSF1X4O16SdNkH-9xc',
     libraries: 'places'
   }
 })
